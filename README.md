@@ -16,9 +16,6 @@ Drivers (Exist in the project)
 Chrome Driver for Mac,
 Gecko Driver for Mac
 
-Browsers:
-Chrome, 
-Firefox
 
 IDE: Intellij/Eclipse
 Plugins: Cucumber for Java, Gherkin
@@ -55,3 +52,5 @@ We can update the browser in which tests should be run in the SelectDriver class
 
 Reports would be generated under :
 /target/cucumber-html-report
+
+Let me know if you have any questions regarding this assesment please contact me on sohelmohammed.qa@gmail.com
