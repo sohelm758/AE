@@ -1,0 +1,5 @@
+com/runner/RunUiTests.class
+com/steps/ui/HomePageSteps.class
+com/steps/ui/InventoryPageSteps.class
+com/steps/ui/PicoHooks.class
+com/steps/ui/LoginStepdefs.class
